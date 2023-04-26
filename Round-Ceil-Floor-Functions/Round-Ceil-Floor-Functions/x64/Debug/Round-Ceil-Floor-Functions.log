@@ -1,0 +1,6 @@
+﻿  Round-Ceil-Floor-Functions.cpp
+D:\cs\CS 6\Object Oriented Programming\Practical\Round-Ceil-Floor-Functions\Round-Ceil-Floor-Functions\Round-Ceil-Floor-Functions.cpp(9,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\cs\CS 6\Object Oriented Programming\Practical\Round-Ceil-Floor-Functions\Round-Ceil-Floor-Functions\Round-Ceil-Floor-Functions.cpp(19,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\cs\CS 6\Object Oriented Programming\Practical\Round-Ceil-Floor-Functions\Round-Ceil-Floor-Functions\Round-Ceil-Floor-Functions.cpp(31,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\cs\CS 6\Object Oriented Programming\Practical\Round-Ceil-Floor-Functions\Round-Ceil-Floor-Functions\Round-Ceil-Floor-Functions.cpp(38,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Round-Ceil-Floor-Functions.vcxproj -> D:\cs\CS 6\Object Oriented Programming\Practical\Round-Ceil-Floor-Functions\x64\Debug\Round-Ceil-Floor-Functions.exe
