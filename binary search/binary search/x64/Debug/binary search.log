@@ -1,0 +1,3 @@
+﻿  binary search.cpp
+D:\cs\cs 4\file organ\Projects\binary search\binary search\binary search.cpp(20,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  binary search.vcxproj -> D:\cs\cs 4\file organ\Projects\binary search\x64\Debug\binary search.exe
